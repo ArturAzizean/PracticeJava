@@ -6,7 +6,34 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40465009-ffa3-467a-a4c0-f707e2d8b788" name="Default Changelist" comment="" />
+    <list default="true" id="40465009-ffa3-467a-a4c0-f707e2d8b788" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible" beforeDir="false" afterPath="$PROJECT_DIR$/projectBi/Project-Bible" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/src/main/java/com/backend/backend/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/projectBi/Project-Bible/backend/src/main/java/com/backend/backend/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/BackendApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/DAO/NoteDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/DAO/ProfileDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/DAO/UserDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/DAOImp/NoteDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/DAOImp/ProfileDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/DAOImp/UserDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/Repository/NoteRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/Repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/controllers/NoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/controllers/ProfileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/controllers/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/model/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/model/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/surefire-reports/TEST-com.backend.backend.BackendApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/surefire-reports/com.backend.backend.BackendApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/test-classes/com/backend/backend/BackendApplicationTests.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,23 +142,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ee/src/jsp/MyModal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="321">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ee/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="13" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -154,6 +172,9 @@
     <dirStrings>
       <dir>$PROJECT_DIR$/src/Server</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -355,12 +376,25 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="art-project" type="58d84e3e:PackageViewProjectNode" />
+              <item name="art-project" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -372,6 +406,19 @@
               <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="art-project" type="462c0819:PsiDirectoryNode" />
               <item name="ee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="art-project" type="462c0819:PsiDirectoryNode" />
+              <item name="ee" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="art-project" type="462c0819:PsiDirectoryNode" />
+              <item name="ee" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
@@ -416,18 +463,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="art-project" type="58d84e3e:PackageViewProjectNode" />
-              <item name="art-project" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -658,6 +693,7 @@
       <workItem from="1552280598158" duration="11514000" />
       <workItem from="1552313212632" duration="104000" />
       <workItem from="1552398746034" duration="52000" />
+      <workItem from="1552896149956" duration="485000" />
     </task>
     <servers />
   </component>
@@ -694,7 +730,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89025000" />
+    <option name="totallyTimeSpent" value="89510000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -707,9 +743,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4930748" visible="true" weight="0.1953514" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4930748" visible="true" weight="0.19756502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -727,9 +762,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286638" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286638" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5002767" side_tool="true" weight="0.24030173" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.27801725" />
       <window_info anchor="bottom" id="DB Execution Console" order="11" />
       <window_info anchor="bottom" id="Console" order="12" />
@@ -945,13 +980,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://ba8f544a-512e-4ef6-838a-c147016eb867/schema/jdbsTest/table/Users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://ba8f544a-512e-4ef6-838a-c147016eb867/schema/jdbsTest/table/Users" />
     <entry file="file://$PROJECT_DIR$/src/dbLessons/DbBlob.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -969,13 +998,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://ba8f544a-512e-4ef6-838a-c147016eb867/schema/jdbsTest/table/Books">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://ba8f544a-512e-4ef6-838a-c147016eb867/schema/jdbsTest/table/Books" />
     <entry file="file://$PROJECT_DIR$/src/dbLessons/UpdateResultSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1050,20 +1073,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/src/jsp/MyModal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ee/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/src/jsp/MyModal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
