@@ -7,32 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40465009-ffa3-467a-a4c0-f707e2d8b788" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible" beforeDir="false" afterPath="$PROJECT_DIR$/projectBi/Project-Bible" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/src/main/java/com/backend/backend/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/projectBi/Project-Bible/backend/src/main/java/com/backend/backend/controllers/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/BackendApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/DAO/NoteDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/DAO/ProfileDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/DAO/UserDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/DAOImp/NoteDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/DAOImp/ProfileDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/DAOImp/UserDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/Repository/NoteRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/Repository/UserRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/controllers/NoteController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/controllers/ProfileController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/controllers/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/model/Note.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/model/Profile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/classes/com/backend/backend/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/surefire-reports/TEST-com.backend.backend.BackendApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/surefire-reports/com.backend.backend.BackendApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectBi/Project-Bible/backend/target/test-classes/com/backend/backend/BackendApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/001f800f-e7fe-490b-a72f-94e108c471e9/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/001f800f-e7fe-490b-a72f-94e108c471e9/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dbLessons/Cache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="1015">
               <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -121,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ee/src/servlets/MyController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="464">
               <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -133,7 +110,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ee/src/servlets/HelloServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="493">
               <caret line="28" column="103" selection-start-line="28" selection-start-column="103" selection-end-line="28" selection-end-column="103" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -145,8 +122,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ee/src/jsp/MyModal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="959">
+              <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -399,65 +376,56 @@
         <subPane>
           <expand>
             <path>
-              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="art-project" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeJava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="art-project" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeJava" type="462c0819:PsiDirectoryNode" />
               <item name="ee" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="art-project" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeJava" type="462c0819:PsiDirectoryNode" />
               <item name="ee" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="art-project" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeJava" type="462c0819:PsiDirectoryNode" />
               <item name="ee" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jsp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="art-project" type="462c0819:PsiDirectoryNode" />
-              <item name="ee" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
-              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="art-project" type="462c0819:PsiDirectoryNode" />
-              <item name="ee" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
-              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="art-project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="art-project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dbLessons" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-            <path>
-              <item name="art-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-              <item name="ba8f544a-512e-4ef6-838a-c147016eb867" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="PracticeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -478,11 +446,11 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PractTomcat/apache-tomcat-7.0.93/bin/tomcat-juli.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -694,6 +662,7 @@
       <workItem from="1552313212632" duration="104000" />
       <workItem from="1552398746034" duration="52000" />
       <workItem from="1552896149956" duration="485000" />
+      <workItem from="1563353118778" duration="137000" />
     </task>
     <servers />
   </component>
@@ -730,7 +699,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89510000" />
+    <option name="totallyTimeSpent" value="89647000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -742,9 +711,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="134" y="35" width="3706" height="2125" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4930748" visible="true" weight="0.19756502" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4930748" visible="true" weight="0.19983417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -762,7 +731,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286638" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27703065" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5002767" side_tool="true" weight="0.24030173" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.27801725" />
@@ -782,24 +751,22 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32982844" />
       <window_info anchor="right" id="Maven" order="8" weight="0.32982844" />
-      <window_info anchor="right" id="Database" order="9" visible="true" weight="0.14001107" />
+      <window_info active="true" anchor="right" id="Database" order="9" visible="true" weight="0.13985628" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/projectBi/Project-Bible" />
+    </ignored-roots>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Practicks/ForDelete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Practicks/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -823,13 +790,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eeTest/src/HelloServlet.java" />
     <entry file="file://$PROJECT_DIR$/eeTest/web/WEB-INF/web.xml" />
-    <entry file="jar://$PROJECT_DIR$/../PractTomcat/apache-tomcat-7.0.93/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../PractTomcat/apache-tomcat-7.0.93/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class" />
     <entry file="file://$PROJECT_DIR$/src/AllPracticks/HTMLParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -853,13 +814,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ee/src/jsp/Person.java" />
-    <entry file="jar://$PROJECT_DIR$/../PractTomcat/apache-tomcat-7.0.93/lib/servlet-api.jar!/javax/servlet/ServletRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../PractTomcat/apache-tomcat-7.0.93/lib/servlet-api.jar!/javax/servlet/ServletRequest.class" />
     <entry file="file://$PROJECT_DIR$/ee/web/jsp/MyJsp.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -868,32 +823,12 @@
       </provider>
     </entry>
     <entry file="das://001f800f-e7fe-490b-a72f-94e108c471e9/schema/mysql/table/columns_priv" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/001f800f-e7fe-490b-a72f-94e108c471e9/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/001f800f-e7fe-490b-a72f-94e108c471e9/console.sql" />
     <entry file="das://cf3154c6-216c-43a5-8369-ee7fac2a4674/schema/test/table/usr" />
     <entry file="das://cf3154c6-216c-43a5-8369-ee7fac2a4674/schema/test/table/Books" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/001f800f-e7fe-490b-a72f-94e108c471e9/console_1.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/001f800f-e7fe-490b-a72f-94e108c471e9/console_2.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/cf3154c6-216c-43a5-8369-ee7fac2a4674/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/001f800f-e7fe-490b-a72f-94e108c471e9/console_1.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/001f800f-e7fe-490b-a72f-94e108c471e9/console_2.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/cf3154c6-216c-43a5-8369-ee7fac2a4674/console.sql" />
     <entry file="file://$PROJECT_DIR$/saved.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -912,21 +847,9 @@
     </entry>
     <entry file="dbSrc:///58efd4e1/ba8f544a-512e-4ef6-838a-c147016eb867/schema/jdbsTest/routine/getBooks@(int(11)).sql" />
     <entry file="dbSrc:///58efd4e1/ba8f544a-512e-4ef6-838a-c147016eb867/schema/jdbsTest/routine/BooksCount@().sql" />
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/sql/PreparedStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="478" column="13" lean-forward="true" selection-start-line="478" selection-start-column="13" selection-end-line="478" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/sql/PreparedStatement.java" />
     <entry file="dbSrc:///58efd4e1/ba8f544a-512e-4ef6-838a-c147016eb867/schema/jdbsTest/routine/getCount@().sql" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ba8f544a-512e-4ef6-838a-c147016eb867/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ba8f544a-512e-4ef6-838a-c147016eb867/console.sql" />
     <entry file="file://$PROJECT_DIR$/src/AllPracticks/MyMailSender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -939,13 +862,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dbLessons/DbTestForServer.java" />
     <entry file="file://$PROJECT_DIR$/ee/src/jsp/JSPHelper.java" />
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="260" column="27" selection-start-line="260" selection-start-column="27" selection-end-line="260" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Class.java" />
     <entry file="file://$PROJECT_DIR$/ee/src/jsp/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1043,9 +960,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ee/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/dbLessons/Cache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="1015">
           <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1055,7 +979,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ee/src/servlets/MyController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="464">
           <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1065,7 +989,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ee/src/servlets/HelloServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="493">
           <caret line="28" column="103" selection-start-line="28" selection-start-column="103" selection-end-line="28" selection-end-column="103" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1073,17 +997,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/web/WEB-INF/web.xml">
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.201-oracle/src.zip!/java/sql/ResultSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="13" selection-end-column="10" />
+        <state relative-caret-position="430">
+          <caret line="1390" column="8" selection-start-line="1390" selection-start-column="8" selection-end-line="1390" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ee/src/jsp/MyModal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="959">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
